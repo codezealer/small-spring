@@ -1,4 +1,4 @@
-package com.codezealer.springframework;
+package com.codezealer.springframework.factory;
 
 public class BeanDefinition {
 

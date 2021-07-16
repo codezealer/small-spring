@@ -1,4 +1,4 @@
-package com.codezealer.springframework;
+package com.codezealer.springframework.factory;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

@@ -1,5 +1,7 @@
 package com.codezealer.springframework;
 
+import com.codezealer.springframework.factory.BeanDefinition;
+import com.codezealer.springframework.factory.BeanFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
